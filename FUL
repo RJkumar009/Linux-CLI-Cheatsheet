@@ -1,8 +1,0 @@
-Files permissions/utilities/link
-
-1) chmod (u,g,o)(+,-,=)(x,r,w) file_name : changes permission in a file
-2) [sudo] chown [new user_name] file_name: changes user owner of a file
-3) [sudo] chown : [new group_name] file/dir name: changes group name
-4) stat file.txt: get metadata about a file
-5) du -sh folder/: get folder size
-
