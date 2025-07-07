@@ -1,0 +1,9 @@
+commands for section 2
+
+1) mkdir [dir_name]: creates new dir;
+2) mkdir -p [dir1/dir2/dir3]: creates sub-directories {-p: parent}
+3) touch [file_name]: creates a file
+4) nano [file_name]: creates & opens file
+5) gedit [file_name]:creates & opens file
+6) vi or vim [file_name]:creates & opens file
+7) cat > [file_name.txt]: creates & opens file

@@ -1,0 +1,9 @@
+Linux is case-sensitive
+
+1) pwd : print working/current Directory(dir); 
+2) ls : lists the content dir;  ls -l: in list-format
+   ls -a: lists the hidden files; ls -r: reverse format;
+   ls -t: sort the files by time
+3) cd .. : moves to previous dir;  cd . : be in present dir
+4) cd [dir]: change directory
+5) cd ~: home dir;  cd / : root dir

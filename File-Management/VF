@@ -1,0 +1,8 @@
+THese are for section 3
+
+1) cat [file.txt]: view file o/p in CLI
+2) less [file.txt]: views content in a pop-up window.(recommended)
+3) head -n 5 [file.txt]: sorts 1st 5 lines 
+4) tail -n 5 [file.txt]: sorts last 5 lines
+5) file [file.txt]: checks file type
+6) wc -l [file.txt]: count the lines in a file
